@@ -33,3 +33,9 @@ image:
 這邊我輸入 giveanornot，而我的網址則會是https://giveanornot.netlify.app。你可以隨意輸入你想要的網址，不過有只能輸入英數字和橫線（-）的限制哦！
 
 ![Editing domain name](2022-07-28_14-39.png)
+
+當我們改完了的時候部落格應該也差不多上線了，到 [giveanornot.netlify.app](https://giveanornot.netlify.app/ "Open site in a new tab") 看看我們的部落格如何吧～
+
+![Homepage of `giveanornot.netlify.app`](2022-07-28_14-52.png)
+
+嗯嗯看起來很不錯！接下來我們來把模板的資料改掉吧～
