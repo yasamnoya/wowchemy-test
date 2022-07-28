@@ -24,8 +24,12 @@ image:
 
 之後就要等它慢慢跑，不過在等的時候可以先點上面這邊的 Domain settings來設定我們的網址！
 
-![](2022-07-28_14-30.png)
+![Netlify deploying dashboard](2022-07-28_14-30.png)
 
-我們可以看到目前的網址是 eloquent-horse-15a4fb.netlify.app 這團鬼東西 @@，點右邊的 Options 然後 Edit site name 來把它改掉。
+我們可以看到目前的網址是 eloquent-horse-15a4fb.netlify.app 這團鬼東西 @@，點右邊的 Options 然後 Edit site name 來把它改掉。如果你已經有自己的網域的話也可以點下面的 Add custom domain 來設定喲~
 
-![](2022-07-28_14-37.png)
+![Custom domains](2022-07-28_14-37.png)
+
+這邊我輸入 giveanornot，而我的網址則會是https://giveanornot.netlify.app。你可以隨意輸入你想要的網址，不過有只能輸入英數字和橫線（-）的限制哦！
+
+![Editing domain name](2022-07-28_14-39.png)
