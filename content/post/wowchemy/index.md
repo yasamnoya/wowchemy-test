@@ -12,4 +12,12 @@ image:
 
 首先先到 [Wowchemy 的模板選擇](https://wowchemy.com/hugo-themes/)，然後選一個喜歡的模板。我這邊以 *Academic Blog* 示範，點選 *START WITH ACADEMIC BLOG*。
 
-![select a hugo theme](2022-07-28_13-59.png "Wowchemy 模板選擇")
+![Select a hugo theme](2022-07-28_13-59.png "Wowchemy 模板選擇")
+
+點 Connect to GitHub 來連結到 GitHub 帳號。
+
+![Connect to GitHub](2022-07-28_14-10.png)
+
+如果成功連結的話就會來到這裡。在 Repository name 這邊輸入 blog。Netlify 會自動建立一個 repository，然後點下面的 Save & Deploy。如果你不清楚什麼是 repository 的話也不用擔心，因爲之後 Netlify CMS 會幫我們管理。
+
+![Entering repository name](2022-07-28_14-16.png)
