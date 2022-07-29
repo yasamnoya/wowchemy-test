@@ -1,5 +1,5 @@
 ---
-title: Wowchemy
+title: Wowchemy - 輕鬆架好自己的 Hugo 部落格
 date: 2022-07-28T05:35:47.600Z
 draft: false
 featured: false
