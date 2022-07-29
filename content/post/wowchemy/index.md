@@ -26,7 +26,7 @@ image:
 
 ![Netlify deploying dashboard](2022-07-28_14-30.png)
 
-我們可以看到目前的網址是 eloquent-horse-15a4fb.netlify.app 這團鬼東西 @@，點右邊的 Options 然後 Edit site name 來把它改掉。如果你已經有自己的網域的話也可以點下面的 Add custom domain 來設定喲~
+我們可以看到目前的網址是 eloquent-horse-15a4fb.netlify.app 這團鬼東西 @@ 點右邊的 Options 然後 Edit site name 來把它改掉。如果你已經有自己的網域的話也可以點下面的 Add custom domain 來設定喲~
 
 ![Custom domains](2022-07-28_14-37.png)
 
@@ -38,4 +38,28 @@ image:
 
 ![Homepage of `giveanornot.netlify.app`](2022-07-28_14-52.png)
 
-嗯嗯看起來很不錯！接下來我們來把模板的資料改掉吧～
+嗯嗯看起來很不錯！
+
+接下來你可能會問要怎麽進到後台咧～其實 Netlify 有偷偷寄一封信，裡面有把我們的 Netlify 帳號邀請進後台權限的連結。
+
+![Netlify Invitation email](2022-07-28_16-17.png)
+
+我們點下面的 Accept the Invite，然後你就會發現......啊怎麽 404 了啦（翻桌）
+
+![404 page](2022-07-28_16-25.png)
+
+這其實是因爲我們在這封信寄出了之後，又去改了部落格的網址。
+
+所以我們只好麻煩一點點，自己手動輸入對的網址嘍 ┐（´-｀）┌ 我這邊就是把前面那一串改成 giveanornot。
+
+![Editing the url](2022-07-28_16-28.png)
+
+改了之後就能正常連上了！然後這邊要輸入之後要用來登入後台的密碼，然後點下面的 Sign up。
+
+![Messege box to input password to sign up](2022-07-29_14-51.png)
+
+燈愣！經過幾次的跳轉之後就可以順利進入後台了，也代表我們已經架好一個部落格嘍ヾ(´▽｀;)ゝ
+
+
+
+接下來要做的，就是把原本模板的假資料改掉，把整個部落格改成自己的樣子吧！
