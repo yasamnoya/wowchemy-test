@@ -1,6 +1,7 @@
 ---
 title: Wowchemy - 輕鬆架好自己的 Hugo 部落格
 date: 2022-07-28T05:35:47.600Z
+summary: 不用錢也不用打 code 就能架好部落格，不香嗎～
 draft: false
 featured: false
 image:
