@@ -1,6 +1,6 @@
 ---
-widget: about.avatar
-widget_id: avatar
+widget: people
+widget_id: people
 headless: true
 weight: 10
 active: true
