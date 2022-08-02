@@ -8,4 +8,3 @@ design:
   background:
     color: "#a36262"
 ---
-🐈 Hey!
