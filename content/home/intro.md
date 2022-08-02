@@ -1,5 +1,5 @@
 ---
-widget: about
+widget: ddd
 headless: true
 weight: 10
 author: admin
