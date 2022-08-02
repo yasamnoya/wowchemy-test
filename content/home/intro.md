@@ -4,7 +4,7 @@ widget_id: avatar
 headless: true
 weight: 10
 author: admin
-active: true
+active: false
 ---
 
 🐈 Hey! I'm **Alice**, a data scientist at Google.
