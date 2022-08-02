@@ -9,6 +9,7 @@ design:
   background:
     text_color_light: false
     image_darken: 0
+    color: "#a35454"
 ---
 🐈 Hey! I'm **Alice**, a data scientist at Google.
 
