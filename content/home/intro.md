@@ -3,7 +3,7 @@ widget: ddd
 headless: true
 weight: 10
 author: admin
-widget_id: about
+widget_id: avatar
 ---
 
 🐈 Hey! I'm **Alice**, a data scientist at Google.
