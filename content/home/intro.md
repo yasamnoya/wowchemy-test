@@ -1,5 +1,5 @@
 ---
-widget: about.avatar
+widget: about
 headless: true
 weight: 10
 author: admin
