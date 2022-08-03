@@ -6,10 +6,10 @@ widget: pages
 headless: true
 active: true
 weight: 20
-title: '文章標題'
+title: ''
 subtitle: ''
 content:
-  offset: 0
+  offset: 1
   order: desc
   filters:
     folders:
@@ -20,10 +20,12 @@ content:
     author: ''
     exclude_featured: false
   archive:
-    enable: false
+    enable: true
+    text: '所有文章'
+    link: post/
 design:
   columns: '2'
-  view: card
+  view: compact
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
