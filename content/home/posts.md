@@ -6,7 +6,7 @@ widget: pages
 headless: true
 active: true
 weight: 20
-title: ''
+title: '文章標題'
 subtitle: ''
 content:
   offset: 0
@@ -22,7 +22,7 @@ content:
   archive:
     enable: false
 design:
-  columns: '1'
+  columns: '2'
   view: card
   flip_alt_rows: true
   background: {}
